@@ -26,3 +26,10 @@ Since changes need to be approved before being merged, it's important to not onl
 - There is an approved issue related to the changes that will be completely or partly resolved by the code.
 - The syntax is clear and is consistent with the rest of the project (project-wide syntax TBD).
 - Nothing breaks with the changes made.
+
+## Credits
+<u>Project Leader</u>
+Léo Jourdan
+
+
+<p>&copy;</p><p> All rights are reserved. </p>

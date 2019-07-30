@@ -4,7 +4,13 @@
 Recreation of the Enigma Machine's algorithm. The point of this Repo is to make a small project that uses rigorous rules to encourage a proper use of git's features .
 
 ## Learning more about the algorithm
-TODO: Add links to ressources that will explain
+[Wikipedia](https://en.wikipedia.org/wiki/Enigma_machine)
+[Simulator](https://cryptii.com/pipes/enigma-machine)
+
+### How it works
+[Principle](https://www.codesandciphers.org.uk/enigma/enigma1.htm)
+[Components](https://www.codesandciphers.org.uk/enigma/enigma2.htm)
+[Rotors](https://www.codesandciphers.org.uk/enigma/rotorspec.htm)
 
 ## Contributing
 

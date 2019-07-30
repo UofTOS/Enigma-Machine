@@ -5,11 +5,14 @@ Recreation of the Enigma Machine's algorithm. The point of this Repo is to make 
 
 ## Learning more about the algorithm
 [Wikipedia](https://en.wikipedia.org/wiki/Enigma_machine)
+
 [Simulator](https://cryptii.com/pipes/enigma-machine)
 
 ### How it works
 [Principle](https://www.codesandciphers.org.uk/enigma/enigma1.htm)
+
 [Components](https://www.codesandciphers.org.uk/enigma/enigma2.htm)
+
 [Rotors](https://www.codesandciphers.org.uk/enigma/rotorspec.htm)
 
 ## Contributing

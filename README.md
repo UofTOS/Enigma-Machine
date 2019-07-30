@@ -28,8 +28,8 @@ Since changes need to be approved before being merged, it's important to not onl
 - Nothing breaks with the changes made.
 
 ## Credits
-<u>Project Leader</u>
+<u>Project Leader</u><br>
 Léo Jourdan
 
 
-<p>&copy;</p><p> All rights are reserved. </p>
+<p>&copy; All rights are reserved. </p>
